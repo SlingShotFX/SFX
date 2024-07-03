@@ -9,6 +9,7 @@
     background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(1.jpg);
     background-position: center;
     background-size: cover;
+    height: 109vh;
 }
 
 .navbar{
@@ -20,6 +21,7 @@
 }
 
 .icon{
+    width: 200px;
     float: left;
     height: 70px;
 }
@@ -43,7 +45,7 @@ ul{
     float: left; 
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
 }
 
 ul li{
