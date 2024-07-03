@@ -96,7 +96,7 @@ ul li a:hover{
 
 .content h1{
     font-family: Arial;
-    font-size: 50px;
+    font-size: 100px;
     padding-left: 20px;
     margin-top: 9%;
     letter-spacing: 2px;
@@ -112,15 +112,15 @@ ul li a:hover{
 }
 
 .content .cn{
-    width: 160px;
-    height: 40px;
+    width: 300px;
+    height: 140px;
     background: hsla(190, 100%, 75%, 0.905);
     border: none;
     margin-top: 20px;
     margin-left: 20px;
-    font-size: 18px;
-    font-size: xx-large;
-    border-radius: 10px;
+    font-family: Arial bold;
+    font-size: 100px;
+    border-radius: 40px;
     cursor: pointer;
 }
 
