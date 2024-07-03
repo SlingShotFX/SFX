@@ -9,7 +9,6 @@
     background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(1.jpg);
     background-position: center;
     background-size: cover;
-    height: 109vh;
 }
 
 .navbar{
@@ -21,7 +20,6 @@
 }
 
 .icon{
-    width: 200px;
     float: left;
     height: 70px;
 }
@@ -50,7 +48,7 @@ ul{
 
 ul li{
     list-style: none;
-    margin-left: 40px;
+    margin-left: 200px;
     margin-top: 15px;
     font-size: 16px;
 }
@@ -58,7 +56,7 @@ ul li{
 ul li a{
     text-decoration: none;
     color: #fff;
-    height: 40px;
+    height: 80px;
     float: right;
     padding: 10px;
     font-family: 'Times New Roman';
@@ -72,11 +70,12 @@ ul li a:hover{
 }
 
 .content{
-    width: 1200px;
-    height: auto;
+    width: 500px;
+    height: 100%;
     margin: auto;
     color: #fff;
     position: relative;
+    text-align: center;
 }
 
 .content .par{
@@ -113,7 +112,7 @@ ul li a:hover{
 .content .cn{
     width: 160px;
     height: 40px;
-    background: #fff;
+    background: hsla(190, 100%, 75%, 0.905);
     border: none;
     margin-top: 20px;
     margin-left: 20px;
@@ -130,7 +129,7 @@ ul li a:hover{
 }
 
 .cn:hover{
-    background: hsla(190, 100%, 75%, 0.905);
+    background: #fff;
 }
 
 .content span{
